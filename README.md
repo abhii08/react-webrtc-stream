@@ -17,8 +17,8 @@ This project demonstrates how two browsers can directly connect and stream video
 
 ## 🧱 Project Structure
 
-**/backend** → Node.js WebSocket signaling server
-**/frontend** → React app with Sender and Receiver components
+**/backend** → Node.js WebSocket signaling server    
+**/frontend** → React app with Sender and Receiver components   
 
 ---
 
